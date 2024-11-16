@@ -2,7 +2,8 @@
 👋 Hi, I’m Fahim
 <br>
 🌟 About Me<br>
-&nbsp;&nbsp;I’m a Computer Science student at BRAC University with a passion for technology, creativity, and problem-solving. As a front-end developer and graphic designer, I aim to combine functionality with aesthetics to build impactful digital experiences.<br>
+&nbsp;&nbsp;I’m a Computer Science student at BRAC University with a passion for technology, creativity, and problem-solving.<br>
+&nbsp;&nbsp;As a front-end developer and graphic designer, I aim to combine functionality with aesthetics to build impactful digital experiences.<br>
 🛠 Skills & Expertise<br>
 &nbsp;&nbsp;Web Development: HTML, CSS, JavaScript (working towards mastering asynchronous programming and APIs).<br>
 &nbsp;&nbsp;Graphic Design: 4+ years of freelance experience on Fiverr, creating designs that tell stories.<br>
