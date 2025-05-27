@@ -13,7 +13,7 @@ I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and have ha
 ---
 
 🛠 Skills & Tools  
-- **Languages & Tools:** JavaScript (ES6+), Python, C++, HTML5, CSS3  
+- **Languages & Tools:** JavaScript (ES6+), Python, C++, HTML5, CSS3, Bootstrap, Tailwind CSS 
 - **Frameworks:** React.js, Node.js, Express  
 - **Databases:** MongoDB, MySQL  
 - **Version Control:** Git & GitHub  
